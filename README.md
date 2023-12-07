@@ -3,18 +3,12 @@ The Tokyo Olympic Data Analysis on Azure project is a comprehensive solution for
 
 # Table of Contents
 - [Introduction](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#introduction)
-
 - [Architecture](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#architecture)
-
 - [Technologies Used](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#technologies-used)
-
 - [Getting Started](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#getting-started)
   - [Prerequisites](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#prerequisites)
-
 - [Data Ingestion](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#data-ingestion)
-
 - [Data Processing](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#datafactory)
-
 - [Conclusion](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#conclusion)
 
 # Introduction
@@ -43,28 +37,21 @@ The architecture of the project consists of the following components:
 * Azure Storage
 * Azure SQL Database
 * Azure Synapse Analytics
-# Resource Group
+### Resource Group
 ![rsG](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/2f481de3-b486-46e4-b38b-80b4410d6d01)
 ## Getting Started
 ### Prerequisites
 * Azure subscription
 * Azure Databricks workspace
 * Azure Data Factory instance
-![rsG](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/2f481de3-b486-46e4-b38b-80b4410d6d01)
 
 
 ### Data Ingestion
 ![dIngestion](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/180d3f6a-5599-4c90-bdfc-b43dc1eef818)
-
-
 ### Data Transformation using DataBricks
 ![Screenshot (19)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/d6f6669a-c352-4829-9e2a-27b43936b785)
-
 ### Data Warehousing
-<img width="682" alt="Screenshot 2023-12-07 172540" src="https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/eb0b220e-3b46-46c2-897f-4c33e82f8626">
-
-
-
+![Screenshot (20)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/c061d6ae-656f-4f3a-b991-cf87d069af66)
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
 
 # Conclusion
