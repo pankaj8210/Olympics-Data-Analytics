@@ -17,10 +17,7 @@ The Olympic Data Analysis on Azure project demonstrates how to build an end-to-e
 # Architecture
 ![arch](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/332dd635-c741-417a-b2de-bc525649052e)
 
-
-
 The architecture of the project consists of the following components:
-
 * Azure Databricks: Used for data processing, transformation, and analysis. It provides a collaborative and interactive environment for running Spark-based jobs.
 
 * Azure Data Factory: Manages and orchestrates the data workflow. It is responsible for data ingestion from various sources, data transformation, and scheduling of jobs.
@@ -49,10 +46,11 @@ The architecture of the project consists of the following components:
 ### Data Ingestion
 ![dIngestion](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/180d3f6a-5599-4c90-bdfc-b43dc1eef818)
 ### Data Transformation using DataBricks
-![Screenshot (19)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/d6f6669a-c352-4829-9e2a-27b43936b785)
-### Data Warehousing
-![Screenshot (20)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/c061d6ae-656f-4f3a-b991-cf87d069af66)
+![dataTransform](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/63c7a5c8-dc21-46c8-b36d-6e965666ffdd)
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
+
+### Data Warehousing using Synapse Analytics
+![Screenshot (20)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/c061d6ae-656f-4f3a-b991-cf87d069af66)
 
 # Conclusion
 
