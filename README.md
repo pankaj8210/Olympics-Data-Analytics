@@ -2,20 +2,20 @@
 The Tokyo Olympic Data Analysis on Azure project is a comprehensive solution for analyzing and visualizing Olympic Games data using various Azure services. This project aims to showcase how to leverage the power of cloud computing and Azure's data services to gain insights from historical Olympic data. By combining Azure Databricks, Azure Data Factory, and other Azure resources, this project provides a scalable and efficient way to process, transform, and analyze large volumes of Olympic data.
 
 # Table of Contents
-[* Introduction](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#introduction)
+- [Introduction](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#introduction)
 
-[* Architecture]()
+- [Architecture](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#architecture)
 
-[* Technologies Used]()
+- [Technologies Used](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#technologies-used)
 
-[* Getting Started]()
-  - [* Prerequisites]()
+- [Getting Started](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#getting-started)
+  - [Prerequisites](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#prerequisites)
 
-[* Data Ingestion]()
+- [Data Ingestion](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#data-ingestion)
 
-[* Data Processing]()
+- [Data Processing](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#datafactory)
 
-[* Conclusion]()
+- [Conclusion](https://github.com/pankaj8210/Olympics-Data-Analytics/blob/main/README.md#conclusion)
 
 # Introduction
 The Olympic Data Analysis on Azure project demonstrates how to build an end-to-end data analysis pipeline on the Azure cloud platform. This involves ingesting raw Olympic data, transforming it into a suitable format, performing analysis, and creating insightful visualizations. The project provides an example of how to integrate and utilize Azure Databricks, Azure Data Factory, and other Azure services to achieve these goals.
