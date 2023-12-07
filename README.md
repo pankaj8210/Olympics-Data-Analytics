@@ -44,8 +44,8 @@ Prerequisites
 Azure subscription
 Azure Databricks workspace
 Azure Data Factory instance
-##Data Ingestion
-##DataFactory
+#Data Ingestion
+#DataFactory
 
 Data Processing
 Databricks
