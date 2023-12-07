@@ -50,10 +50,16 @@ The architecture of the project consists of the following components:
 * Azure subscription
 * Azure Databricks workspace
 * Azure Data Factory instance
+![rsG](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/2f481de3-b486-46e4-b38b-80b4410d6d01)
+
 
 # Data Ingestion
+![dIngestion](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/180d3f6a-5599-4c90-bdfc-b43dc1eef818)
 
-# DataFactory
+
+# Data Transformation using DataFactory
+![dataTransform](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/390496e7-334a-4167-ac19-bac8844087d7)
+
 
 
 Data Processing
