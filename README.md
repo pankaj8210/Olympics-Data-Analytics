@@ -44,7 +44,7 @@ The architecture of the project consists of the following components:
 * Azure SQL Database
 * Azure Synapse Analytics
 # Resource Group
-
+![rsG](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/2f481de3-b486-46e4-b38b-80b4410d6d01)
 ## Getting Started
 ### Prerequisites
 * Azure subscription
@@ -53,17 +53,17 @@ The architecture of the project consists of the following components:
 ![rsG](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/2f481de3-b486-46e4-b38b-80b4410d6d01)
 
 
-# Data Ingestion
+### Data Ingestion
 ![dIngestion](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/180d3f6a-5599-4c90-bdfc-b43dc1eef818)
 
 
-# Data Transformation using DataFactory
-![dataTransform](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/390496e7-334a-4167-ac19-bac8844087d7)
+### Data Transformation using DataBricks
+![Screenshot (19)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/d6f6669a-c352-4829-9e2a-27b43936b785)
+
+### Data Warehousing
+<img width="682" alt="Screenshot 2023-12-07 172540" src="https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/eb0b220e-3b46-46c2-897f-4c33e82f8626">
 
 
-
-Data Processing
-Databricks
 
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
 
@@ -72,3 +72,4 @@ The data processing stage involves cleaning and transforming raw Olympic data in
 The Olympic Data Analysis on Azure project demonstrates how to leverage Azure services for processing, analyzing, and visualizing large-scale data. By following the setup and guides provided in this repository, you can adapt the project to other domains and expand its functionalities. Happy analyzing!
 
 # Author
+@pankaj8210
