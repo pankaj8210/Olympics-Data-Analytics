@@ -1,7 +1,9 @@
 #olympic-data-analysis-azure
+
 The Tokyo Olympic Data Analysis on Azure project is a comprehensive solution for analyzing and visualizing Olympic Games data using various Azure services. This project aims to showcase how to leverage the power of cloud computing and Azure's data services to gain insights from historical Olympic data. By combining Azure Databricks, Azure Data Factory, and other Azure resources, this project provides a scalable and efficient way to process, transform, and analyze large volumes of Olympic data.
 
 #Table of Contents
+
 Introduction
 Architecture
 Technologies Used
@@ -14,10 +16,10 @@ Conclusion
 The Olympic Data Analysis on Azure project demonstrates how to build an end-to-end data analysis pipeline on the Azure cloud platform. This involves ingesting raw Olympic data, transforming it into a suitable format, performing analysis, and creating insightful visualizations. The project provides an example of how to integrate and utilize Azure Databricks, Azure Data Factory, and other Azure services to achieve these goals.
 
 #Architecture
+
 ![arch](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/332dd635-c741-417a-b2de-bc525649052e)
 
 
-Architecture
 
 The architecture of the project consists of the following components:
 
@@ -44,8 +46,11 @@ Prerequisites
 Azure subscription
 Azure Databricks workspace
 Azure Data Factory instance
+
 #Data Ingestion
+
 #DataFactory
+
 
 Data Processing
 Databricks
@@ -53,6 +58,7 @@ Databricks
 The data processing stage involves cleaning and transforming raw Olympic data into a structured format suitable for analysis. This step takes advantage of Azure Databricks' distributed computing capabilities for efficient processing.
 
 #Conclusion
+
 The Olympic Data Analysis on Azure project demonstrates how to leverage Azure services for processing, analyzing, and visualizing large-scale data. By following the setup and guides provided in this repository, you can adapt the project to other domains and expand its functionalities. Happy analyzing!
 
 #Author
