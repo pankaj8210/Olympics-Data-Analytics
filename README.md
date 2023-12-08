@@ -53,7 +53,7 @@ The data processing stage involves cleaning and transforming raw Olympic data in
 ### Data Warehousing using Synapse Analytics
 ![Screenshot (20)](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/c061d6ae-656f-4f3a-b991-cf87d069af66)
 
-### OLYMPIC DATA ANALYTICS
+### OLYMPIC DATA ANALYSIS
 ![image](https://github.com/pankaj8210/Olympics-Data-Analytics/assets/60617234/9e2aef28-89f9-4f41-a12f-e933b77ef636)
 
 
